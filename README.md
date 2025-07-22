@@ -98,14 +98,3 @@ Retailers often serve a diverse customer base. Without segmentation, marketing c
 - Deploy as an interactive dashboard using Streamlit or Dash
 
 ---
-
-## 👩‍💻 Author
-
-- **Name**: Duneesha Dulyana  
-- **Affiliation**: University of Colombo, Faculty of Science  
-- **Course**: [Mention your course/module here]
-
----
-
-## 📂 Repository Structure
-
