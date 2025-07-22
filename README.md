@@ -98,3 +98,11 @@ Retailers often serve a diverse customer base. Without segmentation, marketing c
 - Deploy as an interactive dashboard using Streamlit or Dash
 
 ---
+
+📍Project Objective: Segment customers to support marketing strategy.
+📊EDA Findings: Income and spending score show clear groupings.
+⚙️Model: Used KMeans clustering after standardization.
+🧠Insights:
+- Cluster 0: Low income, high spenders → Target with budget offers
+- Cluster 2: High income, high spenders → Luxury promotions
+📌Conclusion: Clustering helps build data-driven customer targeting.
